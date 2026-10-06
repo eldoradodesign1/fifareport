@@ -1,0 +1,7 @@
+# Résultats attendus
+
+- [x] **Reproduire fidèlement l’interface de référence** — Fournir une interface de tableau de bord sombre dense reprenant la référence fournie : navigation verticale à gauche, accents rouge/rose lumineux, halos diffus, bordures fines, coins arrondis, calendrier et formulaire au centre, panneaux latéraux et actions en bas.
+- [x] **Saisie et gestion complète des rapports d’appel** — Permettre la saisie et la modification des rapports avec date, canal de contact, client, téléphone, commune, gain annoncé et statut, produit, point de vente, participation/actions, description de plainte, priorité, suivi, action entreprise et commentaire interne ; fournir des macros de motifs avec raccourcis clavier visibles et utilisables, un chronomètre d’appel et un identifiant automatique.
+- [x] **Navigation, indicateurs et historique** — Fournir les vues navigables Rapport, Tableau de bord, Rapports, Commandes, Paramètres et Aide ; afficher des données de démonstration modifiables, un historique récent et permettre de rouvrir un rapport pour le consulter ou le modifier.
+- [x] **Configuration Supabase et mode de démonstration** — Dans Paramètres, permettre de renseigner l’URL du projet Supabase, la clé anon/public et le nom de la table, tester la connexion sans inventer d’identifiants, et utiliser par défaut le mode local de démonstration avec persistance locale de secours tant qu’aucune configuration valide n’est disponible.
+- [x] **Export des données collectées** — Permettre le téléchargement des rapports collectés en formats CSV et JSON.
